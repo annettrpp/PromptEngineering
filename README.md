@@ -1,4 +1,4 @@
-# PromptEngineering
+# Prompt Engineering
 
 This project explores the effectiveness of zero-shot and few-shot prompting strategies in both text-to-text and image-to-text tasks. The system integrates Flan-T5 (for text generation), BLIP-2 (for multimodal vision-language modeling), and SentenceTransformer (for evaluation) to generate and assess AI responses across different modalities.
  
@@ -15,7 +15,7 @@ This project explores the effectiveness of zero-shot and few-shot prompting stra
  
  Development and testing were conducted locally. Code implementation was carried out using Jupyter Notebook and PyCharm, depending on device compatibility. Collaborative analysis and discussion took place via a shared Google Doc.
  
- #Model Selection
+ # Model Selection
  Initial experiments were conducted using:
  
  BLIP
